@@ -1,0 +1,26 @@
+{
+    "files.exclude": {
+        ".vscode":true,
+        "node_modules/":true,
+        "dist/":false,
+        "e2e/":true,
+        "*.json": true,
+        "**/*.md": true,
+        ".gitignore": false,
+        "**/.gitkeep":true,
+        ".editorconfig": true,
+        "**/polyfills.ts": true,
+        "**/main.ts": true,
+        "**/tsconfig.app.json": true,
+        "**/tsconfig.spec.json": true,
+        "**/tslint.json": true,
+        "**/karma.conf.js": true,
+        "**/favicon.ico": true,
+        "**/browserslist": true,
+        "**/test.ts": true,
+        "**/*config.js": true,
+        "**/*js.map": true,
+        "**/*css.map": true,
+        "**/style/*.gitignore": true,
+    }
+}
