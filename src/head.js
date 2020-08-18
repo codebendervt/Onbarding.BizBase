@@ -18,7 +18,7 @@ function Head() {
     <meta property="og:description" content="Afri BizBase The Future Of Business" />
     <meta
       property="og:image"
-      content="https://devuniversity.github.io/dot/card.jpg"
+      content="https://raw.githubusercontent.com/devUniversity/Onbarding.BizBase/master/public/card.jpg"
     />
     <meta property="og:url" content="https://www.facebook.com/BizBase-112010610516332/" />
 
@@ -28,7 +28,8 @@ function Head() {
     <meta name="twitter:description" content="Afri BizBase The Future Of Business" />
     <meta
       name="twitter:image"
-      content="https://devuniversity.github.io/dot/card.jpg"
+      content="https://raw.githubusercontent.com/devUniversity/Onbarding.BizBase/master/public/card.jpg"
+      
     />
     <meta name="twitter:card" content="summary_large_image" />
 
